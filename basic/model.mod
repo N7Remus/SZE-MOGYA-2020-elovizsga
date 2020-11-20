@@ -32,8 +32,8 @@ solve;
 
 # Kimenet
 
-printf "The longest row: %f", LongestRow;
-printf "\n\n";
+printf "%f\n",LongestRow;
+
 
 /* data;
 param nRows         :=   3;
